@@ -16,3 +16,4 @@ const upvoteSection = ({articleName,upvotes ,setArticleInfo})=> {
         
 }
 export default upvoteSection;
+
